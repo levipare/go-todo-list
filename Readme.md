@@ -10,7 +10,8 @@
 
 Run `make build` and copy the executable in /bin
 
-## Controls
+## Keymap
 
 tab -> move down  
 shift + tab -> move up
+ctrl + x -> clear list
