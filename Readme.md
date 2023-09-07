@@ -4,7 +4,7 @@
 
 ## Preview
 
-![preview image](./preview.png)
+![preview image](./preview-image.png)
 
 ## Build
 
