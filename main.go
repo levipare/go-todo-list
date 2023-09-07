@@ -13,7 +13,7 @@ import (
 func readListFromFile(filename string) todo.TodoList {
 	file, err := os.Open(filename)
 	if err != nil {
-		panic(err)
+		return todo.NewList()
 	}
 
 	defer file.Close()
